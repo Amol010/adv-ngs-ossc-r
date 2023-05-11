@@ -1,4 +1,4 @@
-count_gene <- list(A=c(), B=c(), C=c(), D=c())
+> count_gene <- list(A=c(), B=c(), C=c(), D=c())
 > count_gene
 $A
 NULL
